@@ -1,5 +1,5 @@
 # Industrial AI Operations Copilot
-
+![Dashboard](assets/Copilot-dashboard.png)
 Industrial AI Operations Copilot is a production-oriented portfolio project for
 troubleshooting centrifugal pumps. It combines approved technical documents,
 synthetic sensor readings, maintenance history, and incident records to produce
